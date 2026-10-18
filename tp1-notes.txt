@@ -1,0 +1,13 @@
+TP1:
+what do we learn today:
+- Creating git repository and Branches 
+- general knowledge about coding and structure
+- how to write a code with a clean structure
+- Why a structure is important in coding
+- how debugging works
+- what is class
+- Method in programming
+- constant in programming
+- package in programming
+- module in programming
+- why system designs and architecture are important
